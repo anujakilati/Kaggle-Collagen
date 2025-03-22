@@ -25,8 +25,6 @@
 
 ## **👩🏽‍💻 Setup & Execution**
 
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
-
 **To use this reposiory, you:**
 - git clone https://github.com/anujakilati/Kaggle-Collagen.git and cd into Kaggle-Collagen
   
