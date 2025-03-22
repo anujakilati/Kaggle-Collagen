@@ -27,7 +27,7 @@
 
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
-**To clone this reposiory, you:**
+**To use this reposiory, you:**
 - git clone https://github.com/anujakilati/Kaggle-Collagen.git and cd into Kaggle-Collagen
   
 * How to install dependencies
@@ -41,9 +41,7 @@
 
 **Describe:**
 
-* The Kaggle competition and its connection to the Break Through Tech AI Program
-* The objective of the challenge
-* The real-world significance of the problem and the potential impact of your work
+* The project was a part of the Kaggle Competition for the Break Through Tech AI fellowship program. The goal of this project was to classify different dermatlogical skin conditions across different skin tones, since there is a lack of representation in training data for minority populations. 
 
 ---
 
