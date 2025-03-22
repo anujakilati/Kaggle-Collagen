@@ -8,6 +8,7 @@
 | Uma Manicka | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
 | Ananya Jakilati | @CharlieN | Implemented explainability tools |
 | Ilayda Dogan | @CharlieN | Implemented explainability tools |
+| Vivian Zheng | @CharlieN | Implemented explainability tools |
 
 ---
 
