@@ -4,7 +4,7 @@
 
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
-| Yomna Elmousalami | @yomnaelmousalami | Handled Data Preprocessing and Model finetuning. |
+| Yomna Elmousalami | @yomnaelmousalami | Handled Data Preprocessing and assisted in model finetuning. |
 | Mel Ramakrishnan | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
 | Charlie Nguyen | @CharlieN | Implemented explainability tools |
 
