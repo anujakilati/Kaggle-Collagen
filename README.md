@@ -12,8 +12,6 @@
 
 ## **🎯 Project Highlights**
 
-**Example:**
-
 * Built an Xception model using \[techniques used\ to solve the issue of classifying different dermatological skin conditions across different skin tones.
 * Achieved an F1 score of \[insert score\] and a ranking of \[insert ranking out of participating teams\] on the final Kaggle Leaderboard
 * Used \[explainability tool\] to interpret model decisions
@@ -36,8 +34,6 @@
 ---
 
 ## **🏗️ Project Overview**
-
-**Describe:**
 
 * The project was a part of the Kaggle Competition for the Break Through Tech AI fellowship program. The goal of this project was to classify different dermatlogical skin conditions across different skin tones, since there is a lack of representation in training data for minority populations. 
 
