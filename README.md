@@ -80,8 +80,6 @@
 
 ## **🖼️ Impact Narrative**
 
-**Answer the relevant questions below based on your competition:**
-
 **AJL challenge:**
 
 As Dr. Randi mentioned in her challenge overview, “Through poetry, art, and storytelling, you can reach others who might not know enough to understand what’s happening with the machine learning model or data visualizations, but might still be heavily impacted by this kind of work.”
