@@ -27,7 +27,9 @@
 
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
-* How to clone the repository
+**To clone this reposiory, you:**
+- git clone https://github.com/anujakilati/Kaggle-Collagen.git and cd into Kaggle-Collagen
+  
 * How to install dependencies
 * How to set up the environment
 * How to access the dataset(s)
