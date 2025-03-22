@@ -5,8 +5,9 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Yomna Elmousalami | @yomnaelmousalami | Handled Data Preprocessing and assisted in model finetuning. |
-| Mel Ramakrishnan | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
-| Charlie Nguyen | @CharlieN | Implemented explainability tools |
+| Uma Manicka | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
+| Ananya Jakilati | @CharlieN | Implemented explainability tools |
+| Ilayda Dogan | @CharlieN | Implemented explainability tools |
 
 ---
 
@@ -41,9 +42,7 @@
 
 ## **📊 Data Exploration**
 
-**Describe:**
-
-* The dataset(s) used (i.e., the data provided in Kaggle \+ any additional sources)
+* The dataset(s) that was utilized was a subset of the FitzPatrick17k dataset, a labeled collection of about 17,000 images depicting a variety of serious (e.g., melanoma) and cosmetic (e.g., acne) dermatological conditions with a range of skin tones scored on the FitzPatrick skin tone scale (FST). About 4500 images are in this set, representing 21 skin conditions out of the 100+ in the full FitzPatrick set.  (i.e., the data provided in Kaggle \+ any additional sources)
 * Data exploration and preprocessing approaches
 * Challenges and assumptions when working with the dataset(s)
 
