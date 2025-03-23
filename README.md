@@ -53,6 +53,10 @@
 ![After Oversampling with Fitzpatrick Scale](Visualizations/after_oversampling_fitzpatrick_scale.png)
 
 ***Figure 2: The dataset after applying Fitzpatrick Scale Oversampling***
+
+![Data Augmentation](Visualizations/data_augmentation.png)
+
+****Figure 3: Sample of the Training Images that were preprocessed using data augmentation***
 ---
 
 ## **🧠 Model Development**
