@@ -6,7 +6,7 @@
 | ----- | ----- | ----- |
 | Yomna Elmousalami | @YomnaElmousalami | Handled Data Preprocessing and assisted in model finetuning. |
 | Uma Manicka | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
-| Ananya Jakilati | @CharlieN | Implemented explainability tools |
+| Ananya Jakilati | @anujakilati | Data Modeling, Data Pre-processing, Image Classification research |
 | Ilayda Dogan | @CharlieN | Implemented explainability tools |
 | Vivian Zheng | @CharlieN | Implemented explainability tools |
 
