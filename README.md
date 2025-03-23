@@ -47,6 +47,12 @@
 **Potential visualizations to include:**
 
 ![Before Oversampling with Fitzpatrick Scale](Visualizations/before_fitzpatrick_scale_oversampling.png)
+
+**Figure 1: The dataset distribution prior to applying Fitzpatrick Scale Oversampling**
+
+![After Oversampling with Fitzpatrick Scale](Visualizations/before_fitzpatrick_scale_oversampling.png)
+
+**Figure 2: The dataset after applying Fitzpatrick Scale Oversampling**
 ---
 
 ## **🧠 Model Development**
