@@ -40,19 +40,19 @@
   - train.csv - Full metadata about the images
   - test.csv - The images against which you will make predictions; contains metadata but no 'label' column
   - sample_submission.csv - A sample submission file in the correct format.
-* Data exploration was conducted by first checking if there are null values or outliers in the dataset, and handling those values. Afterwards, the goal was to see if there were any features in the dataset that were imbalanced. Some of the features that were explored include the Distribution of values in the fitzpatrick scale as well as the distribution of the different types of skin conditions present. However, we decided to conduct random oversampling based on fitzpatrick scale so minority skin tone data is more prevelant in the dataset. Afterwards, we decided to encode the label with label encoder to convert categorical data into numerical form so that machine learning models can process them later on. 
-* Data exploration and preprocessing approaches
-* Challenges and assumptions when working with the dataset(s)
+* Data exploration was conducted by first checking if there are null values or outliers in the dataset, and handling those values. Afterwards, the goal was to see if there were any features in the dataset that were imbalanced. Some of the features that were explored include the Distribution of values in the fitzpatrick scale as well as the distribution of the different types of skin conditions present. However, we decided to conduct random oversampling based on fitzpatrick scale so minority skin tone data is more prevelant in the dataset, as seen in ***Figure 1*** and ***Figure 2***. Afterwards, we decided to encode the label with label encoder to convert categorical data into numerical form so that machine learning models can process them later on.
+* After the initial data exploration, the next step of the process was to conduct some data preprocessing. Some of the approaches we tried was data augmentation, histogram equalization, and contrast stretching for the image data. The goal of this step was to increase the diversity of the training dataset and enhance image contrast for better feature visibility especially in areas where details might have been lost due to poor lighting or contrast.
+* Some of the challenges encountered with dataset is the fact that there is a lack of representation of certan skin tones. Thus, the goal of the data exploration and preprocessing steps were to make sure that the data was a little bit more balanced. Another challenge with the dataset was making sure not to apply to much or too little data augmentation, which could lower the accuracy and f1 score of the model. 
 
 **Potential visualizations to include:**
 
 ![Before Oversampling with Fitzpatrick Scale](Visualizations/before_fitzpatrick_scale_oversampling.png)
 
-**Figure 1: The dataset distribution prior to applying Fitzpatrick Scale Oversampling**
+***Figure 1: The dataset distribution prior to applying Fitzpatrick Scale Oversampling***
 
 ![After Oversampling with Fitzpatrick Scale](Visualizations/after_oversampling_fitzpatrick_scale.png)
 
-**Figure 2: The dataset after applying Fitzpatrick Scale Oversampling**
+***Figure 2: The dataset after applying Fitzpatrick Scale Oversampling***
 ---
 
 ## **🧠 Model Development**
