@@ -34,8 +34,13 @@
 
 ## **📊 Data Exploration**
 
-* The dataset that was utilized was a subset of the FitzPatrick17k dataset, a labeled collection of about 17,000 images depicting a variety of serious (e.g., melanoma) and cosmetic (e.g., acne) dermatological conditions with a range of skin tones scored on the FitzPatrick skin tone scale (FST). About 4500 images are in this set, representing 21 skin conditions out of the 100+ in the full FitzPatrick set. (i.e., the data provided in Kaggle \+ any additional sources).
-* Data exploration was conducted by first 
+* The dataset that was utilized was a subset of the FitzPatrick17k dataset, a labeled collection of about 17,000 images depicting a variety of serious (e.g., melanoma) and cosmetic (e.g., acne) dermatological conditions with a range of skin tones scored on the FitzPatrick skin tone scale (FST). About 4500 images are in this set, representing 21 skin conditions out of the 100+ in the full FitzPatrick set.
+* More specifically, the dataset include the following:
+  - images.zip - An archive file containing the images. The directory is further divided into a train and a test directory. Train is further divided into directories according to the image's label. Test is unlabeled and the source of images for making the submission.
+  - train.csv - Full metadata about the images
+  - test.csv - The images against which you will make predictions; contains metadata but no 'label' column
+  - sample_submission.csv - A sample submission file in the correct format.
+* Data exploration was conducted by first checking if there are null values or outliers in the dataset, and handling those values. Afterwards, the goal was to see if there were any features in the dataset that were imbalanced. Some of the features that were explored include the Distribution of values in the fitzpatrick scale as well as  
 * Data exploration and preprocessing approaches
 * Challenges and assumptions when working with the dataset(s)
 
