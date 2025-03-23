@@ -5,19 +5,17 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Yomna Elmousalami | @YomnaElmousalami | Handled Data Preprocessing and assisted in model finetuning. |
-| Uma Manicka | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
-| Ananya Jakilati | @anujakilati | Data Modeling, Data Pre-processing, Image Classification research |
-| Ilayda Dogan | @CharlieN | Implemented explainability tools |
-| Vivian Zheng | @CharlieN | Implemented explainability tools |
+| Uma Manicka | @MelRam | Led EDA, visualized dataset distributions, handled missing data. |
+| Ananya Jakilati | @anujakilati | Data Modeling, Data Pre-processing, Image Classification research. |
+| Ilayda Dogan | @CharlieN | Assisted in Data Visualizations and Data preprocessing techniques.|
+| Vivian Zheng | @CharlieN | Assisted in Data Visualizations and Data preprocessing techniques. |
 
 ---
 
 ## **🎯 Project Highlights**
 
-* Built an Xception model using \[techniques used\ to solve the issue of classifying different dermatological skin conditions across different skin tones.
-* Achieved an F1 score of \[insert score\] and a ranking of \[insert ranking out of participating teams\] on the final Kaggle Leaderboard
-* Used \[explainability tool\] to interpret model decisions
-* Implemented \[data preprocessing method\] to optimize results within compute constraints
+* Built an Xception model using transfer learning and data augmentation to solve the issue of classifying different dermatological skin conditions across different skin tones.
+* Implemented random oversampling, data augmentation, and histogram equalization to optimize results within compute constraints.
 
 🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
 
@@ -36,7 +34,8 @@
 
 ## **📊 Data Exploration**
 
-* The dataset that was utilized was a subset of the FitzPatrick17k dataset, a labeled collection of about 17,000 images depicting a variety of serious (e.g., melanoma) and cosmetic (e.g., acne) dermatological conditions with a range of skin tones scored on the FitzPatrick skin tone scale (FST). About 4500 images are in this set, representing 21 skin conditions out of the 100+ in the full FitzPatrick set. (i.e., the data provided in Kaggle \+ any additional sources). 
+* The dataset that was utilized was a subset of the FitzPatrick17k dataset, a labeled collection of about 17,000 images depicting a variety of serious (e.g., melanoma) and cosmetic (e.g., acne) dermatological conditions with a range of skin tones scored on the FitzPatrick skin tone scale (FST). About 4500 images are in this set, representing 21 skin conditions out of the 100+ in the full FitzPatrick set. (i.e., the data provided in Kaggle \+ any additional sources).
+* Data exploration was conducted by first 
 * Data exploration and preprocessing approaches
 * Challenges and assumptions when working with the dataset(s)
 
