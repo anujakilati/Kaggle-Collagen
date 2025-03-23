@@ -46,8 +46,7 @@
 
 **Potential visualizations to include:**
 
-* Plots, charts, heatmaps, feature visualizations, sample dataset images
-
+![Before Oversampling with Fitzpatrick Scale](Visualizations/before_fitzpatrick_scale_oversampling.png)
 ---
 
 ## **🧠 Model Development**
