@@ -8,7 +8,7 @@
 | Uma Manicka | @MelRam | Led EDA, visualized dataset distributions, handled missing data. |
 | Ananya Jakilati | @anujakilati | Data Modeling, Data Pre-processing, Image Classification research. |
 | Ilayda Dogan | @CharlieN | Assisted in Data Visualizations and Data preprocessing techniques.|
-| Vivian Zheng | @CharlieN | Assisted in Data Visualizations and Data preprocessing techniques. |
+| Vivian Zheng | @Vzheng1 | Assisted in Data Visualizations and Data preprocessing techniques. |
 
 ---
 
